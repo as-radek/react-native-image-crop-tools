@@ -3,7 +3,8 @@
 Native image crop tools with embeddable UI and on the fly aspect ratio switching
 
 This repository aims to update the forked repository to more recent standards and version.
-You can check the original repository out [here](https://github.com/hhunaid/react-native-image-crop-tools).
+- check forked repository [here](https://github.com/stampix/react-native-image-crop-tools)
+- check the original repository out [here](https://github.com/hhunaid/react-native-image-crop-tools).
 
 ## Previews
 <p float="left">
